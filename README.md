@@ -22,7 +22,7 @@ Welcome to my personal portfolio website built using HTML and CSS. This site sho
 - Google Fonts (Roboto)
 
 ## 📄 Resume
-You can [download my resume](https://rekha4545.github.io/RekhaSwaminathan-Portfolio/assets/Rekha-Swaminathan-Resume.pdf) directly from the website.
+You can [download my resume](https://rekha4545.github.io/RekhaSwaminathan-Portfolio/assets/rekha swaminathan.pdf) directly from the website.
 
 ## 📫 Contact Me
 - Email: rekhaswaminathan31@gmail.com
